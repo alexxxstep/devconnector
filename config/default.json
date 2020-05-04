@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://alex123:alex123@devconnector-pgwiy.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret",
+    "githubClientID": "e02f64191a1af220ad69",
+    "githubSecret": "a7a9a2b9822a00f014da478f5db4ba16f2d857ad"
+
+}
